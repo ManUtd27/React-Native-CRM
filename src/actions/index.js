@@ -1,12 +1,12 @@
 export const selectPerson = (peopleId) => {
     return {
         type: 'SELECTED_PERSON',
-        selectedId: peopleId,
+        payload: peopleId,
     };
 };
 
 
-export const nonePerson = () => {
+export const noneSelected = () => {
     return {
         type: 'NONE_SELECTED',
     };

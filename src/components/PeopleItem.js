@@ -53,7 +53,7 @@ const PersonItem = (props) => {
     return (
 
         <TouchableWithoutFeedback
-            onPress={() => props.selectedPerson(people)}
+            onPress={() => props.selectPerson(props.people)}
         >
 
 
