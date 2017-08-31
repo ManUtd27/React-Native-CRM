@@ -68,5 +68,15 @@
     "company": "LinkedIn",
     "project": "CRM Project",
     "notes": "Lorem ipsum dolor sit amet, duo ne sumo cotidieque. Te sea modo sale numquam, eu sed quando scaevola persecuti, ius quodsi reprehendunt et."
+  },
+  {
+    "id": 8,
+    "first_name": "Shawn",
+    "last_name": "williams",
+    "phone": "555-555-2342",
+    "email": "agfc@agfc.com",
+    "company": "AGFC",
+    "project": "CRM Project",
+    "notes": "Lorem ipsum dolor sit amet, duo ne sumo cotidieque. Te sea modo sale numquam, eu sed quando scaevola persecuti, ius quodsi reprehendunt et."
   }
 ]
